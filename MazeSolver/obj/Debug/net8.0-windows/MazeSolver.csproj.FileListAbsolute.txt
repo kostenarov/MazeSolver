@@ -1,0 +1,14 @@
+C:\Users\petoc\RiderProjects\MazeSolver\MazeSolver\bin\Debug\net8.0-windows\MazeSolver.exe
+C:\Users\petoc\RiderProjects\MazeSolver\MazeSolver\bin\Debug\net8.0-windows\MazeSolver.deps.json
+C:\Users\petoc\RiderProjects\MazeSolver\MazeSolver\bin\Debug\net8.0-windows\MazeSolver.runtimeconfig.json
+C:\Users\petoc\RiderProjects\MazeSolver\MazeSolver\bin\Debug\net8.0-windows\MazeSolver.dll
+C:\Users\petoc\RiderProjects\MazeSolver\MazeSolver\bin\Debug\net8.0-windows\MazeSolver.pdb
+C:\Users\petoc\RiderProjects\MazeSolver\MazeSolver\obj\Debug\net8.0-windows\MazeSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petoc\RiderProjects\MazeSolver\MazeSolver\obj\Debug\net8.0-windows\MazeSolver.AssemblyInfoInputs.cache
+C:\Users\petoc\RiderProjects\MazeSolver\MazeSolver\obj\Debug\net8.0-windows\MazeSolver.AssemblyInfo.cs
+C:\Users\petoc\RiderProjects\MazeSolver\MazeSolver\obj\Debug\net8.0-windows\MazeSolver.csproj.CoreCompileInputs.cache
+C:\Users\petoc\RiderProjects\MazeSolver\MazeSolver\obj\Debug\net8.0-windows\MazeSolver.dll
+C:\Users\petoc\RiderProjects\MazeSolver\MazeSolver\obj\Debug\net8.0-windows\refint\MazeSolver.dll
+C:\Users\petoc\RiderProjects\MazeSolver\MazeSolver\obj\Debug\net8.0-windows\MazeSolver.pdb
+C:\Users\petoc\RiderProjects\MazeSolver\MazeSolver\obj\Debug\net8.0-windows\MazeSolver.genruntimeconfig.cache
+C:\Users\petoc\RiderProjects\MazeSolver\MazeSolver\obj\Debug\net8.0-windows\ref\MazeSolver.dll
